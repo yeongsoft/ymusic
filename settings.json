@@ -4,12 +4,12 @@
         "버전": {
             "코드": 2,
             "이름": "1.0.1",
-            "날짜": "2023년 4월 6일 오전 3시",
-            "패키지": "com.seok.mdown",
-            "패키지주소": "com.seok.mdown",
+            "날짜": "2024년 1월 24일 오전 3시",
+            "패키지": "com.musicyeong.pmusic",
+            "패키지주소": "com.musicyeong.pmusic",
             "버전메세지": {
-                "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 음악 로딩 문제 수정."
+                "all": "This version is no longer available. I would appreciate it if you could use it after reinstalling it.",
+                "ko": "이 버전은 더 이상 이용할 수 없습니다. 다시 설치 후 이용해 주시면 감사하겠습니다."
             }
         },
         "리뷰":{
