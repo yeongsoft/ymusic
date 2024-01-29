@@ -18,22 +18,22 @@
         },
         "페이지뷰": {
             "금성": {
-                "사용": true,
+                "사용": false,
                 "이름": "금성"
             },
             "목성": {
-                "사용": true,
+                "사용": false,
                 "이름": "목성",
                 "파서": {
                     "URL": "https://new.myfreemp3juices.cc/api/api_search.php?callback="
                 }
             },
             "수성": {
-                "사용": false,
+                "사용": true,
                 "이름": "수성"
             },
             "지구": {
-                "사용": true,
+                "사용": false,
                 "앨범": true,
                 "이름": "지구",
                 "파서": {
